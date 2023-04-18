@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 👋 I'm Kaylie Sampson, a software engineer and student at Dartmouth College
+
+The potential for computer programming is limitless, and I'm excited to continue immersing myself in new languages, from “Hello, World” to mastery of the syntax, and seeing where it takes me!
+
+Most recently, I interned with [Pegasystems](https://www.pega.com/what-is-pega?&utm_source=google&utm_medium=cpc&utm_campaign=G_US_Brand_Core_Exact_(CPN-103042)_EN&utm_term=pegasystems&gloc=1021873&utm_content=pcrid%7c645971256608%7cpkw%7ckwd-299862465261%7cpmt%7ce%7cpdv%7cc%7c&gclid=CjwKCAjw__ihBhADEiwAXEazJi-E1QucVd_HAJhgsE_mn697X1HqhIZnXLstcRp67SpsZdC8c_I4MhoCXZUQAvD_BwE&gclsrc=aw.ds), working on their low-code platform that empowers the world’s leading enterprises.
+
+Find more at [kayliesampson.me](https://kayliesampson.me), or reach out at kksamps2@gmail.com.
 
 <!--
 **kaylie-e-sampson/kaylie-e-sampson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
